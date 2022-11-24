@@ -1,4 +1,4 @@
-module gopher_con_2021
+module github.com/zzfima/GopherCon2021.git
 
 go 1.19
 
