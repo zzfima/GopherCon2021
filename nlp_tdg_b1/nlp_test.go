@@ -1,4 +1,4 @@
-package gopherCon2021
+package gophercon2021
 
 import (
 	"testing"
