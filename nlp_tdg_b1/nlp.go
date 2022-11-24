@@ -1,4 +1,4 @@
-package gophercon2021
+package gopherCon2021
 
 import (
 	"regexp"
